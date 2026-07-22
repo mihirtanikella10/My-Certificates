@@ -2,6 +2,7 @@
 
 ## Certificates
 
+- Digital Tech Credential (includes 7 different badges): https://www.credential.net/profile/mihirtanikella173972/wallet 
 - ICS-100 Certificate: https://drive.google.com/file/d/1yirIi18tYupAMQpHVzCzr3G9qJnjlGrM/view
 - ICS-700 Certificate: https://drive.google.com/file/d/1FnWtOY6XaxRHs1tIsHT7Pep3GunFu1sL/view
 - ICS-800 Certificate: https://drive.google.com/file/d/1l8CviHfSvVv9UyWgQB91VzmunyZlMUND/view
